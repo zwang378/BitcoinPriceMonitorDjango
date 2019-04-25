@@ -1,0 +1,11 @@
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'bitcoin_price_monitor/style.css' %}">
+
+<h1>Bitcoin Price Monitor</h1>
+
+<ul>
+        <li><a href="{% url 'bitcoin_price_monitor:history' %}">{{ 'history link ' }}</a></li>
+        <li><a href="{% url 'bitcoin_price_monitor:bids' %}">{{ 'bids link ' }}</a></li>
+        <li><a href="{% url 'bitcoin_price_monitor:asks' %}">{{ 'asks link ' }}</a></li>
+</ul>
