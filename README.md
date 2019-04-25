@@ -8,22 +8,22 @@ Introduction
 
 This app is based on Bitstamp API, so you can find the same Bitcoin information on Bitstamp website (https://www.bitstamp.net/).
 
-The index page has 3 link and you can click them to checkout the following information.
+The index page has 3 links and you can click them to checkout the following information.
 
 Link 1 (History) function(s)
 ---------------
 
-1. See the highest price and lowest price in the past 1 hr.
+See the highest price and lowest price in the past 1 hr.
 
 Tab 2 (Bids) function(s)
 ---------------
 
-1. See the most recent 8 bids.
+See the most recent 8 bids.
 
 Tab 3 (Asks) function(s)
 ---------------
 
-1. See the most recent 8 asks.
+See the most recent 8 asks.
 
 Screenshots
 ---------------
