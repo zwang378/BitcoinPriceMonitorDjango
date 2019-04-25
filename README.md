@@ -1,8 +1,7 @@
-# BitcoinPriceMonitorDjango
-Bitcoin Price Monitor
+BitcoinPriceMonitorDjango
 =============================
 
-A simple web app shows important Bitcoin information only. You can see a few Bitcoin information on this web app. The purpose of this project is to implement the idea of MVC or MTV on Django.
+A simple web app shows important Bitcoin information only. You can see a few Bitcoin information on this web app. The purpose of this project is to implement the idea of MVC/MTV on Django.
 
 Introduction
 ------------
@@ -29,11 +28,11 @@ Tab 3 (Asks) function(s)
 Screenshots
 ---------------
 
-Please see below to check out the animations!
+Please see below to check out the screenshots!
 
 <p float="left">
-  <img src="/sample/index.png?raw=true" width="200px">
-  <img src="/sample/history.png?raw=true" width="200px">
-  <img src="/sample/bids.png?raw=true" width="200px">
-  <img src="/sample/asks.png?raw=true" width="200px">
+  <img src="/sample/index.png?raw=true" width="500px">
+  <img src="/sample/history.png?raw=true" width="500px">
+  <img src="/sample/bids.png?raw=true" width="500px">
+  <img src="/sample/asks.png?raw=true" width="500px">
 </p>
