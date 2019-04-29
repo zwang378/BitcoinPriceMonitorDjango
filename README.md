@@ -3,6 +3,8 @@ BitcoinPriceMonitorDjango
 
 A simple web app shows important Bitcoin information only. You can see a few Bitcoin information on this web app. The purpose of this project is to implement the idea of MVC/MTV on Django.
 
+There is no database in this project. The data source is the real-time Bitcoin information provided by Bitstamp.
+
 Introduction
 ------------
 
